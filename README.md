@@ -3,5 +3,5 @@ MMVM
 
 ### SCREENSHOT
 
-![zyro-image](https://user-images.githubusercontent.com/91742636/147932817-07ac9d17-a16a-4ed3-aac0-375c5b7664c7.png)
+![zyro-image](https://user-images.githubusercontent.com/91742636/147933556-274fa6db-a2e0-4425-afae-2f9c908da023.png)
 
